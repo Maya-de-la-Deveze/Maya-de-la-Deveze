@@ -6,13 +6,27 @@
 
 ## About Me
 
-I am an aspiring Manual QA Engineer with a professional background in UI/UX Design and Graphic Design.
+I am a Manual QA Engineer with a professional background in UI/UX Design and Graphic Design.
 
-For more than 20 years, I have been creating and reviewing digital products, developing a strong attention to detail, visual consistency, and usability.
+My experience in designing and reviewing digital products has helped me develop strong analytical thinking, attention to detail, and a deep understanding of usability and visual consistency.
 
-I am currently building a complete QA portfolio by testing a real-world application (MyWhoosh). The project includes test planning, checklists, test cases, bug reports, UI/UX reviews, accessibility observations, and test reports.
+My background in UI/UX gives me a unique perspective on software quality, allowing me to identify not only functional defects but also usability and interface issues.
 
-I enjoy finding defects, improving user experience, and contributing to software quality.
+I am currently building a comprehensive QA portfolio based on independent testing of the MyWhoosh website. This project documents the complete testing process, from testing strategy and checklists to test cases, bug reports, UI/UX reviews, accessibility reviews, and final test reports.
+
+I enjoy analyzing digital products, identifying quality issues, and improving the overall user experience through structured software testing.
+
+---
+
+## Current Project
+
+### 🚴 MyWhoosh Website QA Portfolio
+
+**Repository**
+
+https://github.com/Maya-de-la-Deveze/mywhoosh-qa-portfolio
+
+An independent QA portfolio project focused on evaluating the quality of the MyWhoosh website through structured manual testing.
 
 ---
 
@@ -20,73 +34,47 @@ I enjoy finding defects, improving user experience, and contributing to software
 
 ### Manual Testing
 
+- Functional Testing
+- Exploratory Testing
 - Test Cases
 - Checklists
 - Bug Reporting
-- Exploratory Testing
-- Smoke Testing
-- Regression Testing
-- SDLC / STLC
-- Test Design Techniques
-
-### Web Technologies
-
-- HTML
-- CSS
-- DOM
-- HTTP
-- REST API
-- JSON
-- Cross-browser Testing
+- UI Testing
+- UX Review
 
 ### Tools
 
+- Git
+- GitHub
 - Jira
 - Qase
 - Chrome DevTools
-- Git
-- GitHub
 - Figma
-- Postman *(learning)*
-- SQL *(learning)*
 
-### UI / UX
+### Technical Knowledge
 
-- UI Review
-- UX Review
-- Visual Consistency
-- Accessibility Basics
-- Typography
-- Layout Analysis
+- Browser DevTools
+- HTTP Status Codes
+- Cross-browser Testing
 
----
+### Currently Learning
 
-## Featured Project
-
-🚴 **MyWhoosh QA Portfolio**
-
-A complete QA case study based on testing a real-world cycling application.
-
-*Coming soon...*
-
----
-
-## Currently Learning
-
-- API Testing
 - SQL
 - Postman
-- Git Workflow
-- Automation Testing
+- REST API Testing
+- Playwright
 
 ---
 
-## Connect with Me
+## Connect
 
 📍 Czech Republic
 
-📧 deveze.testing@gmail.com
+**Email**  
+deveze.testing@gmail.com
 
-LinkedIn: www.linkedin.com/in/maya-de-la-deveze
+**LinkedIn**  
+https://www.linkedin.com/in/maya-de-la-deveze
 
-Portfolio *(coming soon)*
+**GitHub**  
+https://github.com/Maya-de-la-Deveze
