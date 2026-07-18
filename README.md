@@ -44,7 +44,7 @@ An independent QA portfolio project focused on evaluating the quality of the MyW
 
 ### Tools
 
-- Git
+- GitHub
 - Jira
 - Qase
 - Chrome DevTools
