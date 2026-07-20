@@ -77,3 +77,6 @@ https://www.linkedin.com/in/maya-de-la-deveze
 
 **GitHub**  
 https://github.com/Maya-de-la-Deveze
+
+**Telegram**  
+https://t.me/maya_de_la_deveze
